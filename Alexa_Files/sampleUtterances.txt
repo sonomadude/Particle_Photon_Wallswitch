@@ -1,0 +1,4 @@
+switch {state} {location} lights
+switch {state} {location} light
+switch {state} the {location} lights
+switch {state} the {location} light

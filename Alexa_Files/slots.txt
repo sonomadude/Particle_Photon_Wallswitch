@@ -1,0 +1,19 @@
+"STATE" Slots
+on
+off
+open
+close
+
+"LOCATION" Slots
+garage
+studio
+inside studio
+back deck
+front deck
+front door
+barn front
+barn back
+barn interior
+sconces
+patio
+exterior

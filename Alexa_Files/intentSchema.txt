@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "intent": "switch",
+	slots": [
+        {
+          "name": "location",
+          "type": "LOCATION"
+        },
+        {
+          "name": "state",
+          "type": "STATE"
+        }
+      ]
+    }
+  ]
+}
