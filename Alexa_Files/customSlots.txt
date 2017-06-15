@@ -1,0 +1,23 @@
+Slots
+
+STATE
+on
+off
+
+LOCATION
+garage
+studio
+inside studio
+back deck
+front deck
+front door
+barn front
+barn back
+barn interior
+sconces
+patio
+
+OPENCLOSE
+opened
+closed
+kept closed

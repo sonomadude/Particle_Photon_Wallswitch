@@ -1,0 +1,8 @@
+turn {state} {location} lights
+turn {state} {location} light
+turn {state} the {location} lights
+turn {state} the {location} lights
+turn the {location} {state}
+turn the {location} lights {state}
+gate to be {openclose}
+done now

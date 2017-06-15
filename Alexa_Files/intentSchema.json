@@ -1,0 +1,38 @@
+{
+  "intents": [
+    {
+      "intent": "done"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "location",
+          "type": "LOCATION"
+        },
+        {
+          "name": "state",
+          "type": "STATE"
+        }
+      ],
+      "intent": "turn"
+    },
+    {
+      "slots": [
+        {
+          "name": "openclose",
+          "type": "OPENCLOSE"
+        }
+      ],
+      "intent": "gate"
+    }
+  ]
+}
